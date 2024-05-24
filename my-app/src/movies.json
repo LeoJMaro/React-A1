@@ -1,0 +1,19 @@
+{
+    "movies": [
+      {
+        "name": "Terminator 2",
+        "year": 1991,
+        "rating": 5
+      },
+      {
+        "name": "Avatar",
+        "year": 2009,
+        "rating": 4
+      },
+      {
+        "name": "Titanic",
+        "year": 1997,
+        "rating": 3
+      }
+      ]
+  }
