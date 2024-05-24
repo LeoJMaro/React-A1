@@ -2,17 +2,17 @@
 import './App.css';
 import React, {useState} from 'react';
 import MovieData from './movies.json';
-import {Button} from 'react-bootstrap'
+import {Button } from 'react-bootstrap'
 // import {Button, Navbar} from 'react-bootstrap'
 
 
 const Movie = ({ name, year, rating }) => {
 	return (
-		<div>
+		<>
 			<h2>{name}</h2>
 			<p>Year: {year}</p>
 			<p>Rating: {rating}</p>
-		</div>
+		</>
 	);
 };
 
